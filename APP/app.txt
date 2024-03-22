@@ -1,0 +1,6 @@
+[检测用] Applist detecter.apk
+[隐藏应用列表] HMA-v3.2.apk
+[Delta面具]Magisk-Delta-V27.0.apk
+[scene7]scene_7.0.14.apk
+[原高级设置plus]SettingPro_v9.0.1.apk
+[跳广告]李跳跳.apk
